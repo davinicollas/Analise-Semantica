@@ -1,0 +1,11 @@
+public class Teste2 {
+public static void main( ) {	
+string asc;
+boolean a; 
+int b; 
+float c;
+asc=b+c;	
+print(c);
+
+}
+}

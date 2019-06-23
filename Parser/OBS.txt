@@ -1,0 +1,11 @@
+Dupla: Davi Nicollas de Paula Periceles;
+	Pedro Augusto Marcelino Trindade Claudio
+Sobre os erros lexicos avaliados no modulo anterior:
+ID foram inseridos na tabela de simbolos.
+Ajuste nas linhas e colunas.
+
+Sobre o analisador sintatico:
+Erros ja verificados:
+(a-a) ele reconhece como negação, pois o simbolo de negação vem antes de um ID.
+Sobre o AutomatoBottomUP:
+O automato esta feito via excel por ter varios estados foi a forma mais facil de construir o automato bottom Up.

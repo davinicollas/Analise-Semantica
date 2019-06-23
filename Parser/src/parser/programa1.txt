@@ -1,0 +1,9 @@
+public class Teste1
+	integer data_entrega; 
+	string msgm;
+
+	data_entrega = 23 * 06 * 19;
+	msgm = "Bom trabalho!";
+
+	SystemOutDispln(msgm);
+end
